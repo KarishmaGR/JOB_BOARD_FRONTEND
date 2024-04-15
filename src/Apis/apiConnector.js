@@ -1,7 +1,7 @@
 import axios from "axios";
 
-axios.defaults.headers.common["Origin"] =
-  "https://job-board-frontend-teal.vercel.app";
+// axios.defaults.headers.common["Origin"] =
+//   "https://job-board-frontend-teal.vercel.app";
 
 axios.defaults.withCredentials = true;
 
